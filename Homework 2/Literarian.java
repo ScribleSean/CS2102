@@ -1,4 +1,4 @@
-package homeworkTwo;
+package Homework2;
 
 
 public class Literarian

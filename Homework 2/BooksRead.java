@@ -1,5 +1,5 @@
 
-package homeworkTwo;
+package Homework2;
 
 public class BooksRead {
 	double books;
