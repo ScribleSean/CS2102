@@ -2,18 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5df7f547-c3cb-49c0-afca-5f769600ad99" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Homework 3/Homework 3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework 3/MaxInchReport.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework 3/Movie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework 3/MovieExamples.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework 3/MovieManager1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework 3/MovieManager2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework 3/Programme.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework 3/Snowfall1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework 3/Snowfall2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework 3/SnowfallExamples.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework 3/Homework 3.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework 3/MaxInchReport.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework 3/Movie.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework 3/MovieExamples.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework 3/MovieManager1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework 3/MovieManager2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework 3/Programme.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework 3/Snowfall1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework 3/Snowfall2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework 3/SnowfallExamples.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,16 +33,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "jdk.selected.JAVA_MODULE": "1.8"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;1.8&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -52,7 +51,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1668313547869</updated>
-      <workItem from="1668313550458" duration="4208000" />
+      <workItem from="1668313550458" duration="6017000" />
+      <workItem from="1668664703029" duration="11000" />
     </task>
     <servers />
   </component>
