@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="3" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="646bc075-e278-45d1-8d36-b04230eca360" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homework 3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Homework 3.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MovieExamples.java" beforeDir="false" afterPath="$PROJECT_DIR$/MovieExamples.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MovieManager1.java" beforeDir="false" afterPath="$PROJECT_DIR$/MovieManager1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MovieManager2.java" beforeDir="false" afterPath="$PROJECT_DIR$/MovieManager2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programme.java" beforeDir="false" afterPath="$PROJECT_DIR$/Programme.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Snowfall1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Snowfall1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Snowfall2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Snowfall2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SnowfallExamples.java" beforeDir="false" afterPath="$PROJECT_DIR$/SnowfallExamples.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Homework 3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Homework 3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Homework 3/MovieExamples.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Homework 3/MovieExamples.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Homework 3/MovieManager1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Homework 3/MovieManager1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Homework 3/MovieManager2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Homework 3/MovieManager2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Homework 3/Snowfall1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Homework 3/Snowfall1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Homework 3/Snowfall2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Homework 3/Snowfall2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Homework 3/SnowfallExamples.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Homework 3/SnowfallExamples.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,10 +45,11 @@
     &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;
   }
 }</component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.MovieExamples.instructorTestOrganizeMovies">
     <configuration name="MovieExamples.instructorTestOrganizeMovies" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Homework 3" />
       <option name="PACKAGE_NAME" value="" />
@@ -114,7 +120,11 @@
       <updated>1668720842573</updated>
       <workItem from="1668720843731" duration="84000" />
       <workItem from="1668720943764" duration="9040000" />
-      <workItem from="1668792661051" duration="5236000" />
+      <workItem from="1668792661051" duration="5828000" />
+      <workItem from="1668808763293" duration="2624000" />
+      <workItem from="1668811431786" duration="10856000" />
+      <workItem from="1669084978345" duration="29000" />
+      <workItem from="1669085123063" duration="505000" />
     </task>
     <servers />
   </component>
@@ -131,16 +141,5 @@
         </entry>
       </map>
     </option>
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Programme.java</url>
-          <line>28</line>
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>

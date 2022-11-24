@@ -14,6 +14,12 @@ class Snowfall1 {
     return ((int) (dateNum / 100));
   }
 
+  /*
+   * This method exists to produce a list of reports that give the greatest snowfall result for every day in a given month.
+   *  @param    data			A list of doubles representing sensor data.
+   *  @param    int				An integer representing a month (between 1-12).
+   *  @return   LinkedList<MaxInchReport>     A list of the maximum inches of snowfall on each day of a given month.
+   */
   public LinkedList<MaxInchReport> dailyMaxForMonth(LinkedList<Double> data, int month) {
     LinkedList<MaxInchReport> finalMax = new LinkedList<MaxInchReport>();
     for (int i = 0; i < data.size(); i++)
@@ -22,14 +28,14 @@ class Snowfall1 {
       if (extractMonth(data.get(i)) == month)
       {
         double currentMaxValue = data.get(i+1);
-        for (int j = i+1; ((data.get(j) < 99)&&(j<data.size()-1)); j++)
+        for (int j = i+1; ((data.get(j) <= 99)&&(j<data.size()-1)); j++)
         {
-          if (currentMaxValue < data.get(j+1)&&currentMaxValue>0&&data.get(j+1)<99)
+          if (currentMaxValue < data.get(j+1)&&currentMaxValue>0&&data.get(j+1)<=99)
           {
             currentMaxValue = data.get(j+1);
           }
         }
-        MaxInchReport maxInch = new MaxInchReport(currentDate, currentMaxValue);
+        MaxInchReport maxInch = new MaxInchReport (currentDate, currentMaxValue);
         finalMax.add(maxInch);
       }
     }
